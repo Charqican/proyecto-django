@@ -1,2 +1,2 @@
 # Proyecto-Django-Donate-And-Request
- Aplicacion web en donde se puede donar y hacer pedidos de comida. Este proyecto esta basado en otra aplicacion web desarrollada durante un curso universitario de aplicaciones web, se utilizará a modo de aprendizaje y practica con Django
+ Aplicación web para la donación y pedido de alimentos sobrantes. Este proyecto esta basado en una aplicación web desarrollada durante un curso universitario. Se utilizará a modo de aprendizaje y practica con Django.
